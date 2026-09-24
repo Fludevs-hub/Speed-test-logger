@@ -1,0 +1,9 @@
+[project]
+name = "speed-test"
+version = "0.1.0"
+description = "Scheduled internet speed logger that records download, upload, ping, and network metadata to CSV or text logs"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "speedtest-cli>=2.1.3",
+]

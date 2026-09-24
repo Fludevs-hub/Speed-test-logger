@@ -1,0 +1,5 @@
+Date       | Time     | Location                     | Lat,Lon           | Download (Mbps) | Upload (Mbps) | Ping (ms) | Server                         | ISP                       | Status                        
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2026-09-24 | 11:00:23 | Kisumu, Kisumu County, KE    | -0.1022,34.7617   | 43.67           | 18.02         | 352.9     | toob Ltd (London)              | Kenya Education Network   | OK                            
+2026-09-24 | 11:15:00 | Kisumu, Kisumu County, KE    | -0.1022,34.7617   | 9.75            | 6.70          | 188.2     | toob Ltd (London)              | Kenya Education Network   | OK                            
+2026-09-24 | 11:30:00 | Kisumu, Kisumu County, KE    | -0.1022,34.7617   | 4.23            | 3.27          | 183.7     | toob Ltd (London)              | Kenya Education Network   | OK                            
